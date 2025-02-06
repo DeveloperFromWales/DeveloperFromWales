@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything to do with programming
-- 📫 How to reach me ashton_dev < (Discord)
 
 
 <!---
